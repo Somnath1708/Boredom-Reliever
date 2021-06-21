@@ -109,10 +109,10 @@ class TicTacToe extends JFrame implements ItemListener, ActionListener{
 
 
         state=true;type=true;set=true;
-        ic1=new ImageIcon("C:\\Users\\Somnath\\IdeaProjects\\Boredom_Reliever\\src\\Pics\\ic1.jpg");
-        ic2=new ImageIcon("C:\\Users\\Somnath\\IdeaProjects\\Boredom_Reliever\\src\\Pics\\ic2.jpg");
-        ic11=new ImageIcon("C:\\Users\\Somnath\\IdeaProjects\\Boredom_Reliever\\src\\Pics\\ic11.JPG");
-        ic22=new ImageIcon("C:\\Users\\Somnath\\IdeaProjects\\Boredom_Reliever\\src\\Pics\\ic22.JPG");
+        ic1=new ImageIcon("src/Pics/ic1.jpg");
+        ic2=new ImageIcon("src/Pics/ic2.jpg");
+        ic11=new ImageIcon("src/Pics/ic11.jpg");
+        ic22=new ImageIcon("src/Pics/ic22.jpg");
 
         setLayout(null);
         setSize(330,450);

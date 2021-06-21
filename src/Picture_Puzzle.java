@@ -12,17 +12,17 @@ public class Picture_Puzzle extends JFrame implements ActionListener {
 
     public Picture_Puzzle()  {
         super("Picture Puzzle - Boredome Reliver");
-        b1 = new JButton(new ImageIcon("C:\\Users\\Somnath\\IdeaProjects\\Boredom_Reliever\\src\\Pics\\26.jpg"));
-        b2 = new JButton(new ImageIcon("C:\\Users\\Somnath\\IdeaProjects\\Boredom_Reliever\\src\\Pics\\23.jpg"));
-        b3 = new JButton(new ImageIcon("C:\\Users\\Somnath\\IdeaProjects\\Boredom_Reliever\\src\\Pics\\21.jpg"));
-        b4 = new JButton(new ImageIcon("C:\\Users\\Somnath\\IdeaProjects\\Boredom_Reliever\\src\\Pics\\25.jpg"));
-        b5 = new JButton(new ImageIcon("C:\\Users\\Somnath\\IdeaProjects\\Boredom_Reliever\\src\\Pics\\24.jpg"));
-        b6 = new JButton(new ImageIcon("C:\\Users\\Somnath\\IdeaProjects\\Boredom_Reliever\\src\\Pics\\28.jpg"));
-        b7 = new JButton(new ImageIcon("C:\\Users\\Somnath\\IdeaProjects\\Boredom_Reliever\\src\\Pics\\22.jpg"));
-        b8 = new JButton(new ImageIcon("C:\\Users\\Somnath\\IdeaProjects\\Boredom_Reliever\\src\\Pics\\27.jpg"));
-        b9 = new JButton(new ImageIcon("C:\\Users\\Somnath\\IdeaProjects\\Boredom_Reliever\\src\\Pics\\29.jpg"));
-        sam = new JButton(new ImageIcon("C:\\Users\\Somnath\\IdeaProjects\\Boredom_Reliever\\src\\Pics\\main1.jpg"));
-        con = new JButton(new ImageIcon("C:\\Users\\Somnath\\IdeaProjects\\Boredom_Reliever\\src\\Pics\\c1.jpg"));
+        b1 = new JButton(new ImageIcon("src/Pics/26.jpg"));
+        b2 = new JButton(new ImageIcon("src/Pics/23.jpg"));
+        b3 = new JButton(new ImageIcon("src/Pics/21.jpg"));
+        b4 = new JButton(new ImageIcon("src/Pics/25.jpg"));
+        b5 = new JButton(new ImageIcon("src/Pics/24.jpg"));
+        b6 = new JButton(new ImageIcon("src/Pics/28.jpg"));
+        b7 = new JButton(new ImageIcon("src/Pics/22.jpg"));
+        b8 = new JButton(new ImageIcon("src/Pics/27.jpg"));
+        b9 = new JButton(new ImageIcon("src/Pics/29.jpg"));
+        sam = new JButton(new ImageIcon("src/Pics/main1.jpg"));
+        con = new JButton(new ImageIcon("src/Pics/c1.jpg"));
         s1 = new JLabel("This has the power of an empty block");
         s2 = new JLabel("Target Image");
         b1.setBounds(10,80,100,100);
@@ -56,8 +56,8 @@ public class Picture_Puzzle extends JFrame implements ActionListener {
         s1.setBounds(270,50,500,25);
         star=b9.getIcon();
         add(s1);
-        m1 = new ImageIcon("C:\\Users\\Somnath\\IdeaProjects\\Boredom_Reliever\\src\\Pics\\main1");
-        m2 = new ImageIcon("C:\\Users\\Somnath\\IdeaProjects\\Boredom_Reliever\\src\\Pics\\main2");
+        m1 = new ImageIcon("src/Pics/main1.jpg");
+        m2 = new ImageIcon("src/Pics/main2");
 
 
         add(b1);add(b2);add(b3);add(b4);add(b5);add(b6);add(b7);add(b8);add(b9);add(sam);add(con);/*add(l1);add(l2);;add(l3);*/
@@ -66,41 +66,41 @@ public class Picture_Puzzle extends JFrame implements ActionListener {
         setLayout(null);
         setSize(600,500);
         setVisible(true);
-        if(b1.getIcon() == new ImageIcon("C:\\Users\\Somnath\\IdeaProjects\\Boredom_Reliever\\src\\Pics\\1.jpg") && b2.getIcon() == new ImageIcon("C:\\Users\\Somnath\\IdeaProjects\\Boredom_Reliever\\src\\Pics\\2.jpg")  && b3.getIcon() == new ImageIcon("C:\\Users\\Somnath\\IdeaProjects\\Boredom_Reliever\\src\\Pics\\3.jpg")
-        && b4.getIcon() == new ImageIcon("C:\\Users\\Somnath\\IdeaProjects\\Boredom_Reliever\\src\\Pics\\4.jpg") && b5.getIcon() == new ImageIcon("C:\\Users\\Somnath\\IdeaProjects\\Boredom_Reliever\\src\\Pics\\5.jpg") && b6.getIcon() == new ImageIcon("C:\\Users\\Somnath\\IdeaProjects\\Boredom_Reliever\\src\\Pics\\6.jpg")
-        && b7.getIcon() == new ImageIcon("C:\\Users\\Somnath\\IdeaProjects\\Boredom_Reliever\\src\\Pics\\7.jpg") && b8.getIcon() == new ImageIcon("C:\\Users\\Somnath\\IdeaProjects\\Boredom_Reliever\\src\\Pics\\8.jpg") && b9.getIcon() == new ImageIcon("C:\\Users\\Somnath\\IdeaProjects\\Boredom_Reliever\\src\\Pics\\9.jpg"))
+        if(b1.getIcon() == new ImageIcon("src/Pics/1.jpg") && b2.getIcon() == new ImageIcon("src/Pics/2.jpg")  && b3.getIcon() == new ImageIcon("src/Pics/3.jpg")
+        && b4.getIcon() == new ImageIcon("src/Pics/4.jpg") && b5.getIcon() == new ImageIcon("src/Pics/5.jpg") && b6.getIcon() == new ImageIcon("src/Pics/6.jpg")
+        && b7.getIcon() == new ImageIcon("src/Pics/7.jpg") && b8.getIcon() == new ImageIcon("src/Pics/8.jpg") && b9.getIcon() == new ImageIcon("src/Pics/9.jpg"))
         {
             JOptionPane.showInputDialog("You have won!");
-            sam.setIcon(new ImageIcon("C:\\Users\\Somnath\\IdeaProjects\\Boredom_Reliever\\src\\Pics\\main2.jpg"));
-            b1.setIcon(new ImageIcon("C:\\Users\\Somnath\\IdeaProjects\\Boredom_Reliever\\src\\Pics\\1.jpg"));
-            b2.setIcon(new ImageIcon("C:\\Users\\Somnath\\IdeaProjects\\Boredom_Reliever\\src\\Pics\\4.jpg"));
-            b3.setIcon(new ImageIcon("C:\\Users\\Somnath\\IdeaProjects\\Boredom_Reliever\\src\\Pics\\5.jpg"));
-            b4.setIcon(new ImageIcon("C:\\Users\\Somnath\\IdeaProjects\\Boredom_Reliever\\src\\Pics\\6.jpg"));
-            b5.setIcon(new ImageIcon("C:\\Users\\Somnath\\IdeaProjects\\Boredom_Reliever\\src\\Pics\\8.jpg"));
-            b6.setIcon(new ImageIcon("C:\\Users\\Somnath\\IdeaProjects\\Boredom_Reliever\\src\\Pics\\9.jpg"));
-            b7.setIcon(new ImageIcon("C:\\Users\\Somnath\\IdeaProjects\\Boredom_Reliever\\src\\Pics\\7.jpg"));
-            b8.setIcon(new ImageIcon("C:\\Users\\Somnath\\IdeaProjects\\Boredom_Reliever\\src\\Pics\\2.jpg"));
-            b9.setIcon(new ImageIcon("C:\\Users\\Somnath\\IdeaProjects\\Boredom_Reliever\\src\\Pics\\3.jpg"));
+            sam.setIcon(new ImageIcon("src/Pics/main2.jpg"));
+            b1.setIcon(new ImageIcon("src/Pics/1.jpg"));
+            b2.setIcon(new ImageIcon("src/Pics/4.jpg"));
+            b3.setIcon(new ImageIcon("src/Pics/5.jpg"));
+            b4.setIcon(new ImageIcon("src/Pics/6.jpg"));
+            b5.setIcon(new ImageIcon("src/Pics/8.jpg"));
+            b6.setIcon(new ImageIcon("src/Pics/9.jpg"));
+            b7.setIcon(new ImageIcon("src/Pics/7.jpg"));
+            b8.setIcon(new ImageIcon("src/Pics/2.jpg"));
+            b9.setIcon(new ImageIcon("src/Pics/3.jpg"));
             star=b9.getIcon();
-            con.setIcon(new ImageIcon("C:\\Users\\Somnath\\IdeaProjects\\Boredom_Reliever\\src\\Pics\\c2.jpg"));
+            con.setIcon(new ImageIcon("src/Pics/c2.jpg"));
 
         }
-        if(b1.getIcon() == new ImageIcon("C:\\Users\\Somnath\\IdeaProjects\\Boredom_Reliever\\src\\Pics\\21.jpg") && b2.getIcon() == new ImageIcon("C:\\Users\\Somnath\\IdeaProjects\\Boredom_Reliever\\src\\Pics\\22.jpg")  && b3.getIcon() == new ImageIcon("C:\\Users\\Somnath\\IdeaProjects\\Boredom_Reliever\\src\\Pics\\23.jpg")
-                && b4.getIcon() == new ImageIcon("C:\\Users\\Somnath\\IdeaProjects\\Boredom_Reliever\\src\\Pics\\24.jpg") && b5.getIcon() == new ImageIcon("C:\\Users\\Somnath\\IdeaProjects\\Boredom_Reliever\\src\\Pics\\25.jpg") && b6.getIcon() == new ImageIcon("C:\\Users\\Somnath\\IdeaProjects\\Boredom_Reliever\\src\\Pics\\26.jpg")
-                && b7.getIcon() == new ImageIcon("C:\\Users\\Somnath\\IdeaProjects\\Boredom_Reliever\\src\\Pics\\27.jpg") && b8.getIcon() == new ImageIcon("C:\\Users\\Somnath\\IdeaProjects\\Boredom_Reliever\\src\\Pics\\28.jpg") && b9.getIcon() == new ImageIcon("C:\\Users\\Somnath\\IdeaProjects\\Boredom_Reliever\\src\\Pics\\29.jpg"))
+        if(b1.getIcon() == new ImageIcon("src/Pics/21.jpg") && b2.getIcon() == new ImageIcon("src/Pics/22.jpg")  && b3.getIcon() == new ImageIcon("src/Pics/23.jpg")
+                && b4.getIcon() == new ImageIcon("src/Pics/24.jpg") && b5.getIcon() == new ImageIcon("src/Pics/25.jpg") && b6.getIcon() == new ImageIcon("src/Pics/26.jpg")
+                && b7.getIcon() == new ImageIcon("src/Pics/27.jpg") && b8.getIcon() == new ImageIcon("src/Pics/28.jpg") && b9.getIcon() == new ImageIcon("src/Pics/29.jpg"))
         {
-            sam.setIcon(new ImageIcon("C:\\Users\\Somnath\\IdeaProjects\\Boredom_Reliever\\src\\Pics\\main1.jpg"));
-            b1.setIcon(new ImageIcon("C:\\Users\\Somnath\\IdeaProjects\\Boredom_Reliever\\src\\Pics\\26.jpg"));
-            b2.setIcon(new ImageIcon("C:\\Users\\Somnath\\IdeaProjects\\Boredom_Reliever\\src\\Pics\\23.jpg"));
-            b3.setIcon(new ImageIcon("C:\\Users\\Somnath\\IdeaProjects\\Boredom_Reliever\\src\\Pics\\21.jpg"));
-            b4.setIcon(new ImageIcon("C:\\Users\\Somnath\\IdeaProjects\\Boredom_Reliever\\src\\Pics\\25.jpg"));
-            b5.setIcon(new ImageIcon("C:\\Users\\Somnath\\IdeaProjects\\Boredom_Reliever\\src\\Pics\\24.jpg"));
-            b6.setIcon(new ImageIcon("C:\\Users\\Somnath\\IdeaProjects\\Boredom_Reliever\\src\\Pics\\28.jpg"));
-            b7.setIcon(new ImageIcon("C:\\Users\\Somnath\\IdeaProjects\\Boredom_Reliever\\src\\Pics\\22.jpg"));
-            b8.setIcon(new ImageIcon("C:\\Users\\Somnath\\IdeaProjects\\Boredom_Reliever\\src\\Pics\\27.jpg"));
-            b9.setIcon(new ImageIcon("C:\\Users\\Somnath\\IdeaProjects\\Boredom_Reliever\\src\\Pics\\29.jpg"));
+            sam.setIcon(new ImageIcon("src/Pics/main1.jpg"));
+            b1.setIcon(new ImageIcon("src/Pics/26.jpg"));
+            b2.setIcon(new ImageIcon("src/Pics/23.jpg"));
+            b3.setIcon(new ImageIcon("src/Pics/21.jpg"));
+            b4.setIcon(new ImageIcon("src/Pics/25.jpg"));
+            b5.setIcon(new ImageIcon("src/Pics/24.jpg"));
+            b6.setIcon(new ImageIcon("src/Pics/28.jpg"));
+            b7.setIcon(new ImageIcon("src/Pics/22.jpg"));
+            b8.setIcon(new ImageIcon("src/Pics/27.jpg"));
+            b9.setIcon(new ImageIcon("src/Pics/29.jpg"));
             star = b9.getIcon();
-            con.setIcon(new ImageIcon("C:\\Users\\Somnath\\IdeaProjects\\Boredom_Reliever\\src\\Pics\\c1.jpg"));
+            con.setIcon(new ImageIcon("src/Pics/c1.jpg"));
         }
         setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
 
@@ -242,33 +242,33 @@ public class Picture_Puzzle extends JFrame implements ActionListener {
             i++;
             if(i%2!=0){
 
-                sam.setIcon(new ImageIcon("C:\\Users\\Somnath\\IdeaProjects\\Boredom_Reliever\\src\\Pics\\main2.jpg"));
-                b1.setIcon(new ImageIcon("C:\\Users\\Somnath\\IdeaProjects\\Boredom_Reliever\\src\\Pics\\1.jpg"));
-                b2.setIcon(new ImageIcon("C:\\Users\\Somnath\\IdeaProjects\\Boredom_Reliever\\src\\Pics\\4.jpg"));
-                b3.setIcon(new ImageIcon("C:\\Users\\Somnath\\IdeaProjects\\Boredom_Reliever\\src\\Pics\\5.jpg"));
-                b4.setIcon(new ImageIcon("C:\\Users\\Somnath\\IdeaProjects\\Boredom_Reliever\\src\\Pics\\6.jpg"));
-                b5.setIcon(new ImageIcon("C:\\Users\\Somnath\\IdeaProjects\\Boredom_Reliever\\src\\Pics\\8.jpg"));
-                b6.setIcon(new ImageIcon("C:\\Users\\Somnath\\IdeaProjects\\Boredom_Reliever\\src\\Pics\\9.jpg"));
-                b7.setIcon(new ImageIcon("C:\\Users\\Somnath\\IdeaProjects\\Boredom_Reliever\\src\\Pics\\7.jpg"));
-                b8.setIcon(new ImageIcon("C:\\Users\\Somnath\\IdeaProjects\\Boredom_Reliever\\src\\Pics\\2.jpg"));
-                b9.setIcon(new ImageIcon("C:\\Users\\Somnath\\IdeaProjects\\Boredom_Reliever\\src\\Pics\\3.jpg"));
+                sam.setIcon(new ImageIcon("src/Pics/main2.jpg"));
+                b1.setIcon(new ImageIcon("src/Pics/1.jpg"));
+                b2.setIcon(new ImageIcon("src/Pics/4.jpg"));
+                b3.setIcon(new ImageIcon("src/Pics/5.jpg"));
+                b4.setIcon(new ImageIcon("src/Pics/6.jpg"));
+                b5.setIcon(new ImageIcon("src/Pics/8.jpg"));
+                b6.setIcon(new ImageIcon("src/Pics/9.jpg"));
+                b7.setIcon(new ImageIcon("src/Pics/7.jpg"));
+                b8.setIcon(new ImageIcon("src/Pics/2.jpg"));
+                b9.setIcon(new ImageIcon("src/Pics/3.jpg"));
                 star=b9.getIcon();
-                con.setIcon(new ImageIcon("C:\\Users\\Somnath\\IdeaProjects\\Boredom_Reliever\\src\\Pics\\c2.jpg"));
+                con.setIcon(new ImageIcon("src/Pics/c2.jpg"));
             }
             if(i%2==0)
             {
-                sam.setIcon(new ImageIcon("C:\\Users\\Somnath\\IdeaProjects\\Boredom_Reliever\\src\\Pics\\main1.jpg"));
-                b1.setIcon(new ImageIcon("C:\\Users\\Somnath\\IdeaProjects\\Boredom_Reliever\\src\\Pics\\26.jpg"));
-                b2.setIcon(new ImageIcon("C:\\Users\\Somnath\\IdeaProjects\\Boredom_Reliever\\src\\Pics\\23.jpg"));
-                b3.setIcon(new ImageIcon("C:\\Users\\Somnath\\IdeaProjects\\Boredom_Reliever\\src\\Pics\\21.jpg"));
-                b4.setIcon(new ImageIcon("C:\\Users\\Somnath\\IdeaProjects\\Boredom_Reliever\\src\\Pics\\25.jpg"));
-                b5.setIcon(new ImageIcon("C:\\Users\\Somnath\\IdeaProjects\\Boredom_Reliever\\src\\Pics\\24.jpg"));
-                b6.setIcon(new ImageIcon("C:\\Users\\Somnath\\IdeaProjects\\Boredom_Reliever\\src\\Pics\\28.jpg"));
-                b7.setIcon(new ImageIcon("C:\\Users\\Somnath\\IdeaProjects\\Boredom_Reliever\\src\\Pics\\22.jpg"));
-                b8.setIcon(new ImageIcon("C:\\Users\\Somnath\\IdeaProjects\\Boredom_Reliever\\src\\Pics\\27.jpg"));
-                b9.setIcon(new ImageIcon("C:\\Users\\Somnath\\IdeaProjects\\Boredom_Reliever\\src\\Pics\\29.jpg"));
+                sam.setIcon(new ImageIcon("src/Pics/main1.jpg"));
+                b1.setIcon(new ImageIcon("src/Pics/26.jpg"));
+                b2.setIcon(new ImageIcon("src/Pics/23.jpg"));
+                b3.setIcon(new ImageIcon("src/Pics/21.jpg"));
+                b4.setIcon(new ImageIcon("src/Pics/25.jpg"));
+                b5.setIcon(new ImageIcon("src/Pics/24.jpg"));
+                b6.setIcon(new ImageIcon("src/Pics/28.jpg"));
+                b7.setIcon(new ImageIcon("src/Pics/22.jpg"));
+                b8.setIcon(new ImageIcon("src/Pics/27.jpg"));
+                b9.setIcon(new ImageIcon("src/Pics/29.jpg"));
                 star = b9.getIcon();
-                con.setIcon(new ImageIcon("C:\\Users\\Somnath\\IdeaProjects\\Boredom_Reliever\\src\\Pics\\c1.jpg"));
+                con.setIcon(new ImageIcon("src/Pics/c1.jpg"));
             }
         }
 

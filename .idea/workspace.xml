@@ -1,9 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="488e3434-425d-4dab-9df7-0cf881751a14" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="488e3434-425d-4dab-9df7-0cf881751a14" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Calculator$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Calculator$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Calculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/MainUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/MainUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/MyDigitButton.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/MyDigitButton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/MyMemoryButton.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/MyMemoryButton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/MyOperatorButton.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/MyOperatorButton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/MySpecialButton.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/MySpecialButton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Notepad$ExitListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Notepad$ExitListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Notepad$NewListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Notepad$NewListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Notepad$OpenListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Notepad$OpenListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Notepad$PasteListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Notepad$PasteListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Notepad$SaveListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Notepad$SaveListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Notepad.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Notepad.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Number_Puzzle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Number_Puzzle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/21.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/21.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/22.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/22.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/23.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/23.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/24.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/24.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/25.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/25.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/26.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/26.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/27.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/27.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/28.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/28.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/29.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/29.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/c1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/c1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/c2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/c2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/ic1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/ic1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/ic11.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/ic11.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/ic2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/ic2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/ic22.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/ic22.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/main1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/main1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/main2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/main2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/t1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/t2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Picture_Puzzle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Picture_Puzzle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/TicTacToe.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/TicTacToe.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/ttttest$buttonListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/ttttest$buttonListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/ttttest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/ttttest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pics/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pics/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pics/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pics/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pics/21.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pics/21.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pics/22.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pics/22.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pics/23.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pics/23.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pics/24.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pics/24.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pics/25.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pics/25.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pics/26.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pics/26.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pics/27.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pics/27.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pics/28.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pics/28.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pics/29.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pics/29.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pics/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pics/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pics/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pics/4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pics/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pics/5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pics/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pics/6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pics/7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pics/7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pics/8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pics/8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pics/9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pics/9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pics/c1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pics/c1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pics/c2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pics/c2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pics/ic1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pics/ic1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pics/ic11.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pics/ic11.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pics/ic2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pics/ic2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pics/ic22.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pics/main1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pics/main1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pics/main2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pics/main2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pics/t1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pics/t2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Picture_Puzzle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Picture_Puzzle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TicTacToe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TicTacToe.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,90 +89,15 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/MainUI.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1394">
-              <caret line="85" column="42" selection-start-line="85" selection-start-column="42" selection-end-line="85" selection-end-column="42" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Notepad.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1853">
-              <caret line="118" column="38" selection-start-line="118" selection-start-column="38" selection-end-line="118" selection-end-column="38" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ttttest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1768">
-              <caret line="107" column="49" selection-start-line="107" selection-start-column="36" selection-end-line="107" selection-end-column="49" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Calculator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Picture_Puzzle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="41" selection-start-line="41" selection-end-line="41" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#14311#14312#0" expanded="true" />
-                <element signature="e#14347#14348#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Number_Puzzle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -118,6 +120,10 @@
     <option name="y" value="-25" />
     <option name="width" value="1750" />
     <option name="height" value="980" />
+  </component>
+  <component name="ProjectId" id="1uFcVyO04nJnfSRfX8k93AMJVGJ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -150,8 +156,14 @@
       <pane id="Scope" />
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Pics" />
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Android_Apps/AndroidApps" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -162,18 +174,6 @@
       <recent name="C:\Users\Somnath\IdeaProjects\Boredom_Reliever\src\Pics" />
       <recent name="C:\Users\Somnath\IdeaProjects\Boredom_Reliever\src" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Application.MainUI">
     <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -221,6 +221,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -292,6 +293,20 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Pics/starB20.jpg" />
