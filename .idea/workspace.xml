@@ -1,85 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="488e3434-425d-4dab-9df7-0cf881751a14" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="488e3434-425d-4dab-9df7-0cf881751a14" name="Default Changelist" comment="Fixes:&#10;- Image relative path fixed&#10;- Added new images&#10;- Changed logic for TTT&#10;&#10;ToDo:&#10;- Readme file">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pics/Calculator.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pics/MainUI.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pics/Notepad.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pics/NumberPuzzle.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pics/PicturePuzzle.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pics/PicturePuzzle1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pics/TicTacToe.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pics/TicTacToe1.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Calculator$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Calculator$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Calculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/MainUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/MainUI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/MyDigitButton.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/MyDigitButton.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/MyMemoryButton.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/MyMemoryButton.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/MyOperatorButton.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/MyOperatorButton.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/MySpecialButton.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/MySpecialButton.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Notepad$ExitListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Notepad$ExitListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Notepad$NewListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Notepad$NewListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Notepad$OpenListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Notepad$OpenListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Notepad$PasteListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Notepad$PasteListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Notepad$SaveListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Notepad$SaveListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Notepad.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Notepad.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Number_Puzzle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Number_Puzzle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/21.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/21.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/22.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/22.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/23.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/23.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/24.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/24.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/25.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/25.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/26.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/26.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/27.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/27.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/28.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/28.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/29.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/29.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/6.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/7.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/8.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/9.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/c1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/c1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/c2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/c2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/ic1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/ic1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/ic11.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/ic11.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/ic2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/ic2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/ic22.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/ic22.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/main1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/main1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/main2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/main2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/t1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/t2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Picture_Puzzle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Picture_Puzzle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/TicTacToe.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/TicTacToe.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/ttttest$buttonListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/ttttest$buttonListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/ttttest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/ttttest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pics/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pics/1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pics/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pics/2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pics/21.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pics/21.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pics/22.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pics/22.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pics/23.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pics/23.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pics/24.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pics/24.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pics/25.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pics/25.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pics/26.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pics/26.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pics/27.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pics/27.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pics/28.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pics/28.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pics/29.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pics/29.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pics/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pics/3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pics/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pics/4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pics/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pics/5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pics/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pics/6.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pics/7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pics/7.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pics/8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pics/8.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pics/9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pics/9.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pics/c1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pics/c1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pics/c2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pics/c2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pics/ic1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pics/ic1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pics/ic11.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pics/ic11.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pics/ic2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pics/ic2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pics/ic22.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pics/main1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pics/main1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pics/main2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pics/main2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pics/t1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pics/t2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Picture_Puzzle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Picture_Puzzle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TicTacToe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TicTacToe.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -174,6 +107,9 @@
       <recent name="C:\Users\Somnath\IdeaProjects\Boredom_Reliever\src\Pics" />
       <recent name="C:\Users\Somnath\IdeaProjects\Boredom_Reliever\src" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Boredom-Reliever" />
+    </key>
   </component>
   <component name="RunManager" selected="Application.MainUI">
     <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -233,6 +169,14 @@
       <option name="presentableId" value="Default" />
       <updated>1569916701063</updated>
     </task>
+    <task id="LOCAL-00001" summary="Fixes:&#10;- Image relative path fixed&#10;- Added new images&#10;- Changed logic for TTT&#10;&#10;ToDo:&#10;- Readme file">
+      <created>1624267511167</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1624267511167</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -307,6 +251,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Fixes:&#10;- Image relative path fixed&#10;- Added new images&#10;- Changed logic for TTT&#10;&#10;ToDo:&#10;- Readme file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixes:&#10;- Image relative path fixed&#10;- Added new images&#10;- Changed logic for TTT&#10;&#10;ToDo:&#10;- Readme file" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Pics/starB20.jpg" />
