@@ -5,10 +5,10 @@ import java.awt.event.ActionListener;
 
 public class MainUI implements ActionListener {
 
-    JFrame f;
-    JPanel p;
-    JButton b1,b2,b3,b4,b5,b6,b7,b8,b9;
-    MainUI()
+    private JFrame f;
+    private JPanel p;
+    private JButton b1,b2,b3,b4,b5,b6,b7,b8,b9;
+    private MainUI()
     {
         f= new JFrame("Boredom Reliever");
         p=new JPanel(new GridLayout(3,3,20,20));
