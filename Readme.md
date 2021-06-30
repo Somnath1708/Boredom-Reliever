@@ -43,4 +43,4 @@ Implementation of **OOPS**:
   ![Encapsulation](src/Pics/encapsulation.jpg)
 - Polymorphism:
   Creating helper methods in a common java file for them to be reusable
-  ![Polymorphism](src/Pics/)
+  
