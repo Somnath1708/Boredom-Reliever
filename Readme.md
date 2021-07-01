@@ -15,6 +15,9 @@ Utilities:
 
 Screenshots:
 
+- App
+  ![Main UI](src/Pics/MainUI.jpg)
+
 - Tic Tac Toe
 
   ![Tic Tac Toe](src/Pics/TicTacToe.jpg)

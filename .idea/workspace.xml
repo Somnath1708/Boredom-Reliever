@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="488e3434-425d-4dab-9df7-0cf881751a14" name="Default Changelist" comment="Work Done:&#10;- Added Readme File&#10;- Updated gitignore file&#10;- Added Screenshot assets">
-      <change afterPath="$PROJECT_DIR$/src/Pics/abstraction.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pics/encapsulation.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="488e3434-425d-4dab-9df7-0cf881751a14" name="Default Changelist" comment="Work Done:&#10;- Updated Readme File&#10;- Added image assets">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/MainUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/MainUI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MainUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Calculator$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Calculator$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Calculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/MyDigitButton.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/MyDigitButton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/MyMemoryButton.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/MyMemoryButton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/MyOperatorButton.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/MyOperatorButton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/MySpecialButton.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/MySpecialButton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Notepad$ExitListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Notepad$ExitListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Notepad$NewListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Notepad$NewListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Notepad$OpenListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Notepad$OpenListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Notepad$PasteListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Notepad$PasteListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Notepad$SaveListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Notepad$SaveListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Notepad.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Notepad.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Number_Puzzle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Number_Puzzle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/c1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Pics/c1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/Picture_Puzzle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/Picture_Puzzle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/TicTacToe.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/TicTacToe.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/ttttest$buttonListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/ttttest$buttonListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Boredom_Reliever/ttttest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Boredom_Reliever/ttttest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pics/c1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pics/c1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Picture_Puzzle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Picture_Puzzle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,6 +116,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -126,6 +142,8 @@
       </method>
     </configuration>
     <configuration name="MainUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="$USER_HOME$/.jdks/corretto-11.0.11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="MainUI" />
       <module name="Boredom_Reliever" />
       <method v="2">
@@ -147,18 +165,27 @@
       </method>
     </configuration>
     <configuration name="Somnath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="Somnath" />
       <module name="Boredom_Reliever" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Calculator" />
+      <item itemvalue="Application.MainUI" />
+      <item itemvalue="Application.Notepad" />
+      <item itemvalue="Application.Picture_Puzzle" />
+      <item itemvalue="Application.Somnath" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.MainUI" />
+        <item itemvalue="Application.Calculator" />
         <item itemvalue="Application.Picture_Puzzle" />
         <item itemvalue="Application.Notepad" />
-        <item itemvalue="Application.Calculator" />
         <item itemvalue="Application.Somnath" />
       </list>
     </recent_temporary>
@@ -174,6 +201,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569916701063</updated>
+      <workItem from="1625117273740" duration="345000" />
+      <workItem from="1625117638121" duration="223000" />
+      <workItem from="1625117876110" duration="1626000" />
     </task>
     <task id="LOCAL-00001" summary="Fixes:&#10;- Image relative path fixed&#10;- Added new images&#10;- Changed logic for TTT&#10;&#10;ToDo:&#10;- Readme file">
       <created>1624267511167</created>
@@ -189,7 +219,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624269447292</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Work Done:&#10;- Updated Readme File&#10;- Added image assets">
+      <created>1624794657034</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1624794657034</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -251,6 +288,9 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout-to-restore>
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
@@ -267,7 +307,19 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Fixes:&#10;- Image relative path fixed&#10;- Added new images&#10;- Changed logic for TTT&#10;&#10;ToDo:&#10;- Readme file" />
     <MESSAGE value="Work Done:&#10;- Added Readme File&#10;- Updated gitignore file&#10;- Added Screenshot assets" />
-    <option name="LAST_COMMIT_MESSAGE" value="Work Done:&#10;- Added Readme File&#10;- Updated gitignore file&#10;- Added Screenshot assets" />
+    <MESSAGE value="Work Done:&#10;- Updated Readme File&#10;- Added image assets" />
+    <option name="LAST_COMMIT_MESSAGE" value="Work Done:&#10;- Updated Readme File&#10;- Added image assets" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Calculator.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Pics/starB20.jpg" />

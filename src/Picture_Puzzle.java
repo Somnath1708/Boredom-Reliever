@@ -276,5 +276,6 @@ public class Picture_Puzzle extends JFrame implements ActionListener {
 
     public static void main(String[] args) {
         new Picture_Puzzle();
+
     }
 }
